@@ -40,7 +40,7 @@ header p {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('http://brand.wvu.edu/files/29e83ac0-5386-4c45-b1f5-77b1bcd84a8b/856x297?cb=1421330757');
+  background-image: url('http://content.sportslogos.net/logos/35/907/full/4eb98glouqbreir8f1frfbfez.png');
   background-size: cover;
   color: #ffffff;
   height: 500px;
@@ -78,7 +78,7 @@ section .row img {
 
 .btn.btn-primary:hover {
   color: #006BB2;
-  background-color: #FFFF66;
+  background-color: #FFDF40;
 }
 
 .btn-secondary {
