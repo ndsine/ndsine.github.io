@@ -126,7 +126,7 @@ header p {
 footer {
   float: bottom;
   font-size: 12px;
-  margin-top: 2%
+  padding: 2%;
 }
 
 footer .col-sm-8 {
