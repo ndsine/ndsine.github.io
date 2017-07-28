@@ -142,7 +142,7 @@ footer ul {
 }
 
 footer li img {
-  float: right;
+  float: bottom;
   width: 32px;
   height: 32px;
 }
