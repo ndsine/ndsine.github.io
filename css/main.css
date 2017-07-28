@@ -71,11 +71,6 @@ header p {
     vertical-align: middle
 }
 
-element.style{
-  height: 128px;
-  width: 128px;
-}
-
 #about #wvu_logo{
   display:block;
   margin-left: 25px;
@@ -94,10 +89,43 @@ element.style{
   color: white;
 }
 
+.aboutme{
+  
+  margin-top: 2%;
+  margin-bottom: relative;
+    width: 100%;
+    background-color: white;
+    border-radius: 5px;
+    height: 50%;
+    min-height: 150px;
+    vertical-align: middle;
+}
+
+.aboutme p{
+  float: left;
+    margin-top: 2%;
+    text-align: left;
+    width: 50%;
+    height: 50%;
+    font-size: 150%;
+    color:black;
+    
+}
+
+#photo{
+    float: right;
+    margin-top: 2%;
+    width: 50%;
+      height: 50%;
+    display: block;
+    float: right;
+   
+}
+
 
 footer {
   font-size: 12px;
-  padding: 50px 0;
+  padding:  60%;
 }
 
 footer .col-sm-8 {
