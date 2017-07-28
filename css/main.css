@@ -125,12 +125,14 @@ header p {
 
 
 footer {
-  margin-top: 2%;
   font-size: 12px;
-  padding: 80% 0;
+  padding: 20px 0;
 }
 
 footer .col-sm-8 {
+   width: 100%;
+  background-color: #005c99;
+    border-radius: 5px;
   display: flex;
   justify-content: flex-end;
 }
@@ -140,6 +142,7 @@ footer ul {
 }
 
 footer li img {
+  float: right;
   width: 32px;
   height: 32px;
 }
