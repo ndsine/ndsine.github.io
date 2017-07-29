@@ -133,16 +133,26 @@ header p {
     vertical-align: middle;
 }
 
-.work p{
+#headline{
   float: right;
     margin-top: 2%;
     text-align: left;
     width: 50%;
-    height: 50%;
+    height: auto;
     font-size: 200%;
     color:#646464;
     font-weight: 400;
-    
+}
+
+#text{
+    float: right;
+    margin-top: 2%;
+    text-align: left;
+    width: 50%;
+    height: auto;
+    font-size: 200%;
+    color:#646464;
+    font-weight: 400;
 }
 
 #internphoto{
