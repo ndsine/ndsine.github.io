@@ -133,10 +133,10 @@ header p {
     vertical-align: middle;
 }
 
-#headline{
-  float: right;
+#title{
+    float: right;
     margin-top: 2%;
-    text-align: left;
+    text-align: right;
     width: 50%;
     height: auto;
     font-size: 200%;
