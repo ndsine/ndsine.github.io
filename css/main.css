@@ -146,13 +146,17 @@ header p {
 
 #text{
     float: right;
-    margin-top: 2%;
-    text-align: left;
     width: 50%;
     height: auto;
     font-size: 200%;
     color:#646464;
     font-weight: 400;
+  
+    line-height: 90%;
+    margin-bottom: 2px;
+    margin-top: 1px;
+    position: relative;
+    text-align: left;
 }
 
 #internphoto{
