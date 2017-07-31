@@ -127,6 +127,10 @@ footer {
   padding: 70% 0;
 }
 
+#small{
+  padding: 60% 0;
+}
+
 footer .col-sm-8 {
   display: flex;
   justify-content: flex-end;
