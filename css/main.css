@@ -91,7 +91,7 @@ header p {
 
 .content{ 
   margin-top: 2%;
-  margin-bottom: relative;
+  margin-bottom: 2%;
     width: 100%;
     background-color: white;
     border-radius: 5px;
@@ -113,7 +113,7 @@ header p {
 
 .textcontent{ 
   margin-top: 2%;
-  margin-bottom: relative;
+  margin-bottom: 2%;
   width: 100%;
   background-color: white;
   height: auto;
