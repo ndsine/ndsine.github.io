@@ -89,7 +89,7 @@ header p {
   color: white;
 }
 
-.picture{ 
+.content{ 
   margin-top: 2%;
   margin-bottom: relative;
     width: 100%;
@@ -100,7 +100,7 @@ header p {
     vertical-align: middle;
 }
 
-.picture p{
+.content p{
   float: left;
     margin-top: 2%;
     text-align: left;
@@ -108,8 +108,7 @@ header p {
     height: 50%;
     font-size: 200%;
     color:#646464;
-    font-weight: 400;
-    
+    font-weight: 400; 
 }
 
 #photo{
