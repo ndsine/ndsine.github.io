@@ -140,6 +140,10 @@ footer {
   padding: 45% 0;
 }
 
+#youtubelink{
+ color: #EEB422;
+}
+
 footer .col-sm-8 {
   display: flex;
   justify-content: flex-end;
