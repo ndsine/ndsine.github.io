@@ -143,16 +143,6 @@ header p {
     
 }
 
-#carphoto{
-    float: right;
-    margin-top: 2%;
-    width: 50%;
-    height: 50%;
-    display: block;
-}
-
-
-
 .work {
  margin-top: 2%;
   margin-bottom: relative;
@@ -178,16 +168,6 @@ header p {
 #right {
     margin-left: 7%;
 }
-
-#internphoto{
-    float: right;
-    margin-top: 2%;
-    width: 50%;
-    height: 50%;
-    display: block;
-   
-}
-
 
 footer {
   padding: 70% 0;
