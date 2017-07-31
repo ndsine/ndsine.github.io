@@ -105,32 +105,12 @@ header p {
     margin-top: 2%;
     text-align: left;
     width: 50%;
-    height: auto;
+    height: 50%;
     font-size: 200%;
     color:#646464;
     font-weight: 400; 
 }
 
-.textcontent{ 
-  margin-top: 0%;
-  margin-bottom: 2%;
-  width: 100%;
-  background-color: white;
-  height: auto;
-  min-height: 150px;
-  vertical-align: middle;
-}
-
-.textcontent p{
-  float: left;
-  margin-top: 2%;
-  text-align: left;
-  width: 50%;
-  height: auto;
-  font-size: 200%;
-  color:#646464;
-  font-weight: 400; 
-}
 
 #photo{
     float: right;
