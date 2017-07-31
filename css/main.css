@@ -89,7 +89,7 @@ header p {
   color: white;
 }
 
-.aboutme{ 
+.picture{ 
   margin-top: 2%;
   margin-bottom: relative;
     width: 100%;
@@ -100,7 +100,7 @@ header p {
     vertical-align: middle;
 }
 
-.aboutme p{
+.picture p{
   float: left;
     margin-top: 2%;
     text-align: left;
@@ -118,74 +118,6 @@ header p {
     width: 50%;
     height: 50%;
     display: block;
-}
-
-.projects{ 
-  margin-top: 2%;
-  margin-bottom: relative;
-    width: 100%;
-    background-color: white;
-    border-radius: 5px;
-    height: 50%;
-    min-height: 150px;
-    vertical-align: middle;
-}
-
-.projects p{
-  float: left;
-    margin-top: 2%;
-    text-align: left;
-    width: 50%;
-    height: 50%;
-    font-size: 200%;
-    color:#646464;
-    font-weight: 400;
-    
-}
-
-.work {
- margin-top: 2%;
-  margin-bottom: relative;
-    width: 100%;
-    background-color: white;
-    border-radius: 5px;
-    height: 50%;
-    min-height: 150px;
-    vertical-align: middle;
-}
-
-.work p {
-  float: left;
-    margin-top: 2%;
-    text-align: left;
-    width: 50%;
-    height: 50%;
-    font-size: 200%;
-    color:#646464;
-    font-weight: 400;
-}
-
-.campus{ 
-  margin-top: 2%;
-  margin-bottom: relative;
-    width: 100%;
-    background-color: white;
-    border-radius: 5px;
-    height: 50%;
-    min-height: 150px;
-    vertical-align: middle;
-}
-
-.campus p{
-  float: left;
-    margin-top: 2%;
-    text-align: left;
-    width: 50%;
-    height: 50%;
-    font-size: 200%;
-    color:#646464;
-    font-weight: 400;
-    
 }
 
 #right {
