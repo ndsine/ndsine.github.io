@@ -105,14 +105,14 @@ header p {
     margin-top: 2%;
     text-align: left;
     width: 50%;
-    height: 50%;
+    height: auto;
     font-size: 200%;
     color:#646464;
     font-weight: 400; 
 }
 
 .textcontent{ 
-  margin-top: 2%;
+  margin-top: 0%;
   margin-bottom: 2%;
   width: 100%;
   background-color: white;
@@ -126,7 +126,7 @@ header p {
   margin-top: 2%;
   text-align: left;
   width: 50%;
-  height: auto%;
+  height: auto;
   font-size: 200%;
   color:#646464;
   font-weight: 400; 
